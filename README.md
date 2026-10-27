@@ -245,3 +245,5 @@ The homography maps pixels of B to pixels of A, both at processing size (960x540
                                    v
                     FPS / Latency / CPU / Drops
 ```
+
+License: This project is available for educational and non-commercial use under the Embedded AI Lab Educational Use License. Commercial use requires prior written permission. Please see the LICENSE file for the full terms.
